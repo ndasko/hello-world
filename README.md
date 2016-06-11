@@ -1,2 +1,4 @@
 # hello-world
-prvi repository
+
+My name is Nino
+Dadada
